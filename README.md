@@ -2,5 +2,5 @@
 Daily leetcode challenges
 
 
-hi
+h
 
