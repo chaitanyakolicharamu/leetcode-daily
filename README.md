@@ -4,4 +4,4 @@ Daily leetcode challenges
 
 
 
-gj
+g
