@@ -6,4 +6,3 @@ ghj
 hhkkb
 hhjk
 ghkm
-hjm
