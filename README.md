@@ -2,7 +2,4 @@
 Daily leetcode challenges
 
 
-yyh
-hjik
-
 
