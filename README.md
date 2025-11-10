@@ -4,6 +4,5 @@ Daily leetcode challenges
 
 
 etyth
-yyjkkl
-thkkll
+yyjkk
 fhkklf
