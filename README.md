@@ -7,9 +7,3 @@ h
 hmm
 
 h.
-
-bm
-
-
-hm
-
