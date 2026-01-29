@@ -1,6 +1,6 @@
 # leetcode-daily
 rthdtndn 
-fncDaily leetcode challenges
+fDaily leetcode challenges
 
 
 
