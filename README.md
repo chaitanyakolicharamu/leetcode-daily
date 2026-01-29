@@ -1,5 +1,5 @@
 # leetcode-daily
-rthDaily leetcode challenges
+Daily leetcode challenges
 
 
 
