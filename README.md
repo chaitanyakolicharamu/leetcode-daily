@@ -1,5 +1,5 @@
 # leetcode-daily
 Daily leetcode challenges
 
-vhjbhjji
+vh
 hhghie
